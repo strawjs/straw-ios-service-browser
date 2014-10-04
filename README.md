@@ -8,8 +8,13 @@
 /**
  Open URL using external app (typically Safari)
 
- @param params params[@"url"] The url to open
+ - params
+   - (NSString *) params[@"url"] The url to open
+
+ @param params Service call params
  @param context Service call context
+
+ @background
  */
 - (void)openURL:(NSDictionary *)params withContext:(id<STWServiceCallContext>)context
 ```
