@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "StrawServiceBrowser"
-  s.version      = "0.1.2"
+  s.version      = "0.1.3"
   s.summary      = "Arbitrary URL open service for Straw iOS"
 
   s.description  = <<-DESC
@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
   s.platform     = :ios
   s.platform     = :ios, "6.0"
 
-  s.source       = { :git => "https://github.com/strawjs/straw-ios-service-browser.git", :tag => "v0.1.2" }
+  s.source       = { :git => "https://github.com/strawjs/straw-ios-service-browser.git", :tag => "v0.1.3" }
 
   s.source_files  = "StrawServiceBrowser/**/*.{h,m}"
   s.public_header_files = "StrawServiceBrowser/**/*.h"

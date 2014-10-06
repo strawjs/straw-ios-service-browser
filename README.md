@@ -1,4 +1,4 @@
-# straw-ios-service-browser v0.1.2
+# straw-ios-service-browser v0.1.3
 
 > URL open service for Straw iOS
 
