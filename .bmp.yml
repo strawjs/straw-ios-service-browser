@@ -2,3 +2,6 @@ version: 0.0.0
 files:
   README.md: straw-ios-service-browser v%.%.%
   Makefile: doc/v%.%.%
+  StrawServiceBrowser.podspec:
+  - '= "%.%.%"'
+  - ':tag => "%.%.%"'
