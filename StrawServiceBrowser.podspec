@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
   s.platform     = :ios
   s.platform     = :ios, "6.0"
 
-  s.source       = { :git => "http://EXAMPLE/StrawServiceBrowser.git", :tag => "0.1.0" }
+  s.source       = { :git => "http://EXAMPLE/StrawServiceBrowser.git", :tag => "v0.1.0" }
 
   s.source_files  = "StrawServiceBrowser/**/*.{h,m}"
   s.public_header_files = "StrawServiceBrowser/**/*.h"

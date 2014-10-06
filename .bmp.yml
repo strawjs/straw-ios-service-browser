@@ -5,4 +5,4 @@ files:
   Makefile: doc/v%.%.%
   StrawServiceBrowser.podspec:
   - = "%.%.%"
-  - ':tag => "%.%.%"'
+  - ':tag => "v%.%.%"'
