@@ -1,6 +1,6 @@
 # straw-ios-service-browser v0.1.0
 
-> Arbitrary URL open service for Straw iOS
+> URL open service for Straw iOS
 
 # Service Methods
 
